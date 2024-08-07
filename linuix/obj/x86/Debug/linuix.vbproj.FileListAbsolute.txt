@@ -1,0 +1,38 @@
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\bin\Debug\linuix.exe.config
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\WindowsApplication1.apps.resources
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\WindowsApplication1.interwebs.resources
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\WindowsApplication1.LinuixSettings.resources
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\WindowsApplication1.OSMain.resources
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\WindowsApplication1.VirusSheild.resources
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\linuix.vbproj.GenerateResource.Cache
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\bin\Debug\linuix.exe.manifest
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\bin\Debug\linuix.application
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\bin\Debug\linuix.exe
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\bin\Debug\linuix.pdb
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\bin\Debug\linuix.xml
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\linuix.exe.manifest
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\linuix.application
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\linuix.exe
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\linuix.xml
+C:\Users\Micheal\Documents\Visual Studio 2010\Projects\Linuix-OS-main\linuix\obj\x86\Debug\linuix.pdb
+Z:\Linuix-OS\linuix\bin\Debug\linuix.exe.config
+Z:\Linuix-OS\linuix\obj\x86\Debug\linuix.exe
+Z:\Linuix-OS\linuix\obj\x86\Debug\linuix.xml
+Z:\Linuix-OS\linuix\obj\x86\Debug\linuix.pdb
+Z:\Linuix-OS\linuix\bin\Debug\linuix.exe.manifest
+Z:\Linuix-OS\linuix\bin\Debug\linuix.application
+Z:\Linuix-OS\linuix\bin\Debug\linuix.exe
+Z:\Linuix-OS\linuix\bin\Debug\linuix.pdb
+Z:\Linuix-OS\linuix\bin\Debug\linuix.xml
+Z:\Linuix-OS\linuix\obj\x86\Debug\WindowsApplication1.apps.resources
+Z:\Linuix-OS\linuix\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Linuix-OS\linuix\obj\x86\Debug\WindowsApplication1.interwebs.resources
+Z:\Linuix-OS\linuix\obj\x86\Debug\WindowsApplication1.LinuixSettings.resources
+Z:\Linuix-OS\linuix\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Linuix-OS\linuix\obj\x86\Debug\WindowsApplication1.OSMain.resources
+Z:\Linuix-OS\linuix\obj\x86\Debug\WindowsApplication1.VirusSheild.resources
+Z:\Linuix-OS\linuix\obj\x86\Debug\linuix.vbproj.GenerateResource.Cache
+Z:\Linuix-OS\linuix\obj\x86\Debug\linuix.exe.manifest
+Z:\Linuix-OS\linuix\obj\x86\Debug\linuix.application
